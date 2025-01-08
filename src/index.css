@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+  }
+  
+  section {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  body.gradient-background {
+    background: linear-gradient(180deg, #181818, #212121);
+  }
+  
+  a, button {
+    color: #FF69B4;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  a:hover, button:hover {
+    color: #FFC0CB;
+    transform: scale(1.05);
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #FF69B4;
+    border-radius: 4px;
+  }
+  
