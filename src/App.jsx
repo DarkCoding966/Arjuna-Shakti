@@ -4,6 +4,8 @@ import DashboardLayout from "./Components/DashboardLayout";
 import { Iconify } from "./assets/iconify";
 import Footer from "./Components/Footer";
 import {BrowserRouter as Router, Link} from 'react-router-dom';
+import 'leaflet/dist/leaflet.css';
+
 
 const App = () => {
   return (
