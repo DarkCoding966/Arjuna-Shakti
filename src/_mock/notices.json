@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "title": "Swachh Bharat Abhiyan Cleanup",
+      "location": "Marine Drive, Mumbai",
+      "date": "March 5, 2025",
+      "time": "7:00 AM - 10:00 AM",
+      "agenda": "Cleaning the beach and promoting cleanliness awareness.",
+      "dressCode": "Casual, comfortable for work",
+      "bring": "Gloves, Trash bags, Water bottles",
+      "chiefGuest": "BMC Commissioner Rajesh Mehta"
+    },
+    {
+      "id": 2,
+      "title": "Tree Plantation Drive",
+      "location": "Lodhi Garden, Delhi",
+      "date": "March 10, 2025",
+      "time": "9:00 AM - 12:00 PM",
+      "agenda": "Planting trees and discussing afforestation efforts.",
+      "dressCode": "Casual, eco-friendly wear",
+      "bring": "Saplings, Gardening tools, Water can",
+      "chiefGuest": "Environment Minister Anjali Verma"
+    },
+    {
+      "id": 3,
+      "title": "Yoga Awareness Camp",
+      "location": "Cubbon Park, Bangalore",
+      "date": "March 12, 2025",
+      "time": "6:00 AM - 8:00 AM",
+      "agenda": "Promoting health through yoga sessions.",
+      "dressCode": "Comfortable yoga attire",
+      "bring": "Yoga mat, Water bottle",
+      "chiefGuest": "Yoga Guru Ramesh Acharya"
+    },
+    {
+      "id": 4,
+      "title": "Blood Donation Drive",
+      "location": "AIIMS Hospital, Delhi",
+      "date": "March 15, 2025",
+      "time": "10:00 AM - 4:00 PM",
+      "agenda": "Encouraging voluntary blood donation.",
+      "dressCode": "Casual",
+      "bring": "Donor ID, Water bottle",
+      "chiefGuest": "Health Minister Dr. Manish Gupta"
+    },
+    {
+      "id": 5,
+      "title": "Startup Pitch Fest",
+      "location": "IIT Madras, Chennai",
+      "date": "March 18, 2025",
+      "time": "10:00 AM - 5:00 PM",
+      "agenda": "Providing a platform for startups to pitch ideas.",
+      "dressCode": "Formal business attire",
+      "bring": "Presentation slides, Business cards",
+      "chiefGuest": "Investor Rohan Malhotra"
+    },
+    {
+      "id": 6,
+      "title": "Food Distribution Drive",
+      "location": "Howrah Station, Kolkata",
+      "date": "March 20, 2025",
+      "time": "12:00 PM - 3:00 PM",
+      "agenda": "Distributing meals to the underprivileged.",
+      "dressCode": "Casual",
+      "bring": "Food packets, Disposable plates",
+      "chiefGuest": "NGO Founder Priya Sharma"
+    },
+    {
+      "id": 7,
+      "title": "Women Empowerment Seminar",
+      "location": "Nehru Centre, Mumbai",
+      "date": "March 22, 2025",
+      "time": "11:00 AM - 2:00 PM",
+      "agenda": "Panel discussions on women's rights and empowerment.",
+      "dressCode": "Formal",
+      "bring": "Notebook, Pen",
+      "chiefGuest": "Social Activist Nandita Rao"
+    },
+    {
+      "id": 8,
+      "title": "Tech Innovation Expo",
+      "location": "HICC, Hyderabad",
+      "date": "March 25, 2025",
+      "time": "10:00 AM - 6:00 PM",
+      "agenda": "Showcasing latest advancements in technology.",
+      "dressCode": "Casual or business casual",
+      "bring": "Exhibit materials, ID card",
+      "chiefGuest": "Tech CEO Rahul Bansal"
+    },
+    {
+      "id": 9,
+      "title": "Road Safety Awareness Campaign",
+      "location": "Connaught Place, Delhi",
+      "date": "March 27, 2025",
+      "time": "9:00 AM - 12:00 PM",
+      "agenda": "Educating people on road safety measures.",
+      "dressCode": "Casual",
+      "bring": "Pamphlets, Safety gear",
+      "chiefGuest": "Traffic Police Chief Vinay Kumar"
+    },
+    {
+      "id": 10,
+      "title": "Hackathon 2025",
+      "location": "IIIT Bangalore",
+      "date": "March 30, 2025",
+      "time": "9:00 AM - 9:00 PM",
+      "agenda": "A 12-hour coding marathon for tech enthusiasts.",
+      "dressCode": "Casual",
+      "bring": "Laptop, Power bank",
+      "chiefGuest": "CTO of Infosys, Sanjay Rao"
+    },
+    {
+      "id": 11,
+      "title": "Anti-Plastic Awareness Drive",
+      "location": "Vashi, Navi Mumbai",
+      "date": "April 1, 2025",
+      "time": "10:00 AM - 1:00 PM",
+      "agenda": "Raising awareness against plastic use.",
+      "dressCode": "Casual",
+      "bring": "Reusable bags, Water bottles",
+      "chiefGuest": "Environmentalist Ritu Kapoor"
+    },
+    {
+      "id": 12,
+      "title": "Literacy Mission Camp",
+      "location": "Kolkata Municipal Hall",
+      "date": "April 3, 2025",
+      "time": "10:00 AM - 2:00 PM",
+      "agenda": "Teaching basic literacy to underprivileged children.",
+      "dressCode": "Casual",
+      "bring": "Books, Stationery",
+      "chiefGuest": "Educationist Prof. Sudhir Sen"
+    },
+    {
+      "id": 13,
+      "title": "Cyclothon for Health Awareness",
+      "location": "Bangalore Palace Grounds",
+      "date": "April 6, 2025",
+      "time": "6:00 AM - 10:00 AM",
+      "agenda": "Promoting fitness through cycling.",
+      "dressCode": "Sportswear",
+      "bring": "Bicycle, Helmet, Water bottle",
+      "chiefGuest": "Sports Minister Anuj Mehta"
+    },
+    {
+      "id": 14,
+      "title": "Heritage Walk & Cultural Talk",
+      "location": "Humayun's Tomb, Delhi",
+      "date": "April 9, 2025",
+      "time": "8:00 AM - 11:00 AM",
+      "agenda": "Exploring historical landmarks and discussing their significance.",
+      "dressCode": "Casual, comfortable shoes",
+      "bring": "Camera, Notebook",
+      "chiefGuest": "Archaeologist Dr. Kavita Joshi"
+    },
+    {
+      "id": 15,
+      "title": "Mental Health Awareness Seminar",
+      "location": "TISS, Mumbai",
+      "date": "April 12, 2025",
+      "time": "10:00 AM - 1:00 PM",
+      "agenda": "Panel discussions on mental well-being.",
+      "dressCode": "Casual",
+      "bring": "Notebook, Pen",
+      "chiefGuest": "Psychologist Dr. Meera Iyer"
+    }
+  ]
+  

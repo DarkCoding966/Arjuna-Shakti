@@ -53,9 +53,11 @@ const App = () => {
           }}
         >
           {/* Example of a few icons representing sections */}
+          <Link to="/fake">
           <Iconify
-            icon="line-md:alert-circle-twotone-loop"
+            icon="material-symbols:eye-tracking-sharp"
             sx={{
+              color:"white",
               cursor: "pointer", // Adding pointer cursor for interactivity
               "&:hover": {
                 transform: "scale(1.1)", // Slight scale on hover for effect
@@ -65,6 +67,7 @@ const App = () => {
               width: 35,
             }}
           />
+          </Link>
          
          <Link to="/safeRoute">
           <Iconify
@@ -81,10 +84,10 @@ const App = () => {
             }}
           />
           </Link>
-
-          <Link to="/community">
+          
+          <Link to="/legal">
           <Iconify
-            icon="line-md:chat-round-filled"
+            icon="material-symbols:balance"
             sx={{
               color:"white",
               cursor: "pointer", // Adding pointer cursor for interactivity
@@ -96,20 +99,12 @@ const App = () => {
             }}
           />
           </Link>
-           <Iconify
-            icon="line-md:github-twotone"
-            sx={{
-              cursor: "pointer", // Adding pointer cursor for interactivity
-              "&:hover": {
-                transform: "scale(1.1)", // Slight scale on hover for effect
-                transition: "0.3s", // Smooth transition for hover effect
-              }, height: 35,
-              width: 35,
-            }}
-          />
+
+          <Link to="/notice">
            <Iconify
             icon="line-md:file-document-filled"
             sx={{
+              color:"white",
               cursor: "pointer", // Adding pointer cursor for interactivity
               "&:hover": {
                 transform: "scale(1.1)", // Slight scale on hover for effect
@@ -118,9 +113,13 @@ const App = () => {
               width: 35,
             }}
           />
-           <Iconify
-            icon="material-symbols:settings"
+          </Link>
+
+          <Link to="/courses">
+          <Iconify
+            icon="material-symbols:laptop-chromebook-outline-rounded"
             sx={{
+              color:"white",
               cursor: "pointer", // Adding pointer cursor for interactivity
               "&:hover": {
                 transform: "scale(1.1)", // Slight scale on hover for effect
@@ -129,6 +128,22 @@ const App = () => {
               width: 35,
             }}
           />
+          </Link>
+
+          <Link to="/schemes">
+           <Iconify
+            icon="material-symbols:account-balance-rounded"
+            sx={{
+              color:"white",
+              cursor: "pointer", // Adding pointer cursor for interactivity
+              "&:hover": {
+                transform: "scale(1.1)", // Slight scale on hover for effect
+                transition: "0.3s", // Smooth transition for hover effect
+              }, height: 35,
+              width: 35,
+            }}
+          />
+        </Link>
         </Box>
       </Drawer>
 

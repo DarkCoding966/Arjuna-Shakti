@@ -1,0 +1,117 @@
+{
+    "womenEmpowermentSchemes": [
+      {
+        "name": "Beti Bachao Beti Padhao Scheme",
+        "launchYear": 2015,
+        "objectives": [
+          "To prevent gender-biased sex selective elimination",
+          "To ensure survival & protection of the girl child",
+          "To ensure education and participation of the girl child"
+        ],
+        "link":"https://en.wikipedia.org/wiki/Beti_Bachao_Beti_Padhao"
+      },
+      {
+        "name": "One-Stop Centre Scheme",
+        "launchYear": 2015,
+        "objectives": [
+          "To provide support and assistance to women affected by violence, both in private and public spaces.",
+          "To Facilitate/Assist in filing First Information Report (FIR/NCR)",
+          "To provide psycho-social support and counselling to women/girl"
+        ],
+        "link":"https://www.myscheme.gov.in/schemes/osc"
+      },
+      {
+        "name": "Women Helpline Scheme",
+        "launchYear": 2016,
+        "objectives": [
+          "To provide toll-free 24-hours telecom service to women affected by violence.",
+          "To facilitate crisis and non-crisis intervention through referral to the appropriate agencies such as police/Hospitals/Ambulance services/District Legal Service Authority (DLSA)/Protection Officer (PO)/OSC.",
+          "To provide information about the appropriate support services, government schemes, and programs available to the woman affected by violence, in her particular situation within the local area in which she resides or is employed."
+        ],
+        "link":"https://pib.gov.in/PressReleasePage.aspx?PRID=1578566"
+      },
+      {
+        "name": "UJJAWALA",
+        "launchYear": 2016,
+        "objectives": [
+          "To prevent the trafficking of women and children for commercial sexual exploitation.",
+          "To facilitate the rescue of victims from the place of their exploitation and place them in safe custody.",
+          "To provide rehabilitation services with both immediate and long-term to the victims by providing basic amenities/needs such as shelter, food, clothing, medical treatment including counseling, legal aid and guidance, and vocational training."
+        ],
+        "link":"https://pmuy.gov.in/"
+      },
+      {
+        "name": "Working Women Hostel",
+        "launchYear": "1972-73",
+        "objectives": [
+          "To promote the availability of safe and conveniently located accommodation for working women.",
+          "To provide accommodation to children of working women, up to the age of 18 years for girls and up to the age of 5 years for boys."
+        ],
+        "link":"https://www.myscheme.gov.in/schemes/swwh"
+      },
+      {
+        "name": "SWADHAR Greh",
+        "launchYear": 2018,
+        "objectives": [
+          "To cater to the primary need for shelter, food, clothing, medical treatment, and care of women in distress.",
+          "To provide women with legal aid and guidance."
+        ],
+        "link":"https://www.myscheme.gov.in/schemes/sg"
+      },
+      {
+        "name": "Support to Training and Employment Programme for Women (STEP)",
+        "launchYear": "1986-87",
+        "objectives": [
+          "To provide skills that give employability to women.",
+          "To benefit women in the age group of 16 and above in the country."
+        ],
+        "link":"https://www.india.gov.in/support-training-and-employment-programme-women"
+      },
+      {
+        "name": "Nari Shakti Puraskar",
+        "launchYear": 2016,
+        "objectives": [
+          "To strengthen the place of women in society.",
+          "To facilitate institutions that work towards the progress and development of women in society."
+        ]
+      },
+      {
+        "name": "Mahila Shakti Kendras (MSK)",
+        "launchYear": 2017,
+        "objectives": [
+          "To create an environment for women where they have access to healthcare, quality education, guidance, employment, etc.",
+          "To facilitate these opportunities at the block and district level in the country."
+        ],
+        "link":"https://en.wikipedia.org/wiki/Nari_Shakti_Puraskar"
+      },
+      {
+        "name": "NIRBHAYA",
+        "launchYear": 2012,
+        "objectives": [
+          "To facilitate safety and security for women at various levels.",
+          "To ensure strict privacy and confidentiality of women’s identity and information.",
+          "Provision for real-time intervention as far as possible"
+        ],
+        "link":"https://pib.gov.in/pressreleasepage.aspx?prid=1743231"
+      },
+      {
+        "name": "Mahila E-Haat",
+        "launchYear": 2016,
+        "objectives": [
+          "To facilitate entrepreneurship opportunities online for women.",
+          "To educate women on various aspects of online selling and helping them establish their venture."
+        ],
+        "link":"https://pib.gov.in/newsite/printrelease.aspx?relid=137415"
+      },
+      {
+        "name": "Mahila Police Volunteers",
+        "launchYear": 2016,
+        "objectives": [
+          "An MPV will serve as a public-police interface in order to fight crime against women.",
+          "The broad mandate of MPVs is to report incidences of violence against women such as domestic violence, child marriage, dowry harassment and violence faced by women in public spaces."
+        ],
+        "link":"https://www.geeksforgeeks.org/mahila-police-volunteer/"
+      }
+    ]
+  }
+  

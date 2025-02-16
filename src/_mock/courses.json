@@ -1,0 +1,107 @@
+{
+    "Coding": [
+      {
+        "title": "Web Development Bootcamp",
+        "platform": "Udemy",
+        "image": "https://www.udemy.com/staticx/udemy/js/webpack/coding-exercises-demo-preview-desktop.2957bed27c3ae43a02824b61ad9cda03.png",
+        "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp"
+      },
+      {
+        "title": "Python for Beginners",
+        "platform": "Coursera",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.IeHYgoKi4yj7lxnZkY0W7QHaDt&pid=Api&P=0&h=180",
+        "url": "https://www.udemy.com/course/learn-python-with-abdul-bari/?couponCode=LEARNNOWPLANS"
+      },
+      {
+        "title": "React - The Complete Guide",
+        "platform": "Udemy",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.Llvht-xgYFfZekrchNus7wHaDt&pid=Api&P=0&h=180",
+        "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/?couponCode=LEARNNOWPLANS"
+      },
+      {
+        "title": "JavaScript Essentials",
+        "platform": "Udacity",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.bxEkHw1xewxOFjmGunb-CwHaCx&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/projects/showcase-build-a-portfolio-website-html-css-javascript?utm_medium=sem&utm_source=bg&utm_campaign=b2c_india_x_coursera_ftcof_courseraplus_cx_dr_bau_bg_sem_bd-ex_in_all_m_x_21-06_x&campaignid=662967884&adgroupid=1247947035449093&device=c&keyword=coursera&matchtype=e&network=o&devicemodel=&adposition=&creativeid=77996820632393&adgroup=Brand%20Pure%20-%20Exact&querystring=coursera&targetid=kwd-77997062863182%3Aloc-90&bidmatchtype=be&extensionid=&msclkid=d45e9047e8ee170745e2f7f654bdea69&utm_term=coursera&utm_content=Brand%20Pure%20-%20Exact"
+      }
+    ],
+    "Business": [
+      {
+        "title": "Digital Marketing 101",
+        "platform": "Udemy",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.sIc8OBghGomtxx_EmZhK2AHaFP&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+      },
+      {
+        "title": "Entrepreneurship Basics",
+        "platform": "Coursera",
+        "image": "https://www.corporatevision-news.com/wp-content/uploads/2021/08/Entrepreneurship-1536x864.jpg",
+        "url": "https://www.coursera.org/specializations/wharton-entrepreneurship"
+      },
+      {
+        "title": "Leadership & Management",
+        "platform": "LinkedIn Learning",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.tEpA6TuzjL2vTWhqQuHEtQHaEK&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/specializations/strategic-leadership"
+      },
+      {
+        "title": "Finance for Beginners",
+        "platform": "Khan Academy",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.VwcCD4kyWrtpFxDJK2Bx9gHaE8&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/specializations/finance-and-financial-markets"
+      }
+    ],
+    "Personality Development": [
+      {
+        "title": "Public Speaking Mastery",
+        "platform": "Udemy",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.LrM9R-EqUC3XAQ6JSranngHaE7&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/specializations/public-speaking"
+      },
+      {
+        "title": "Confidence Building",
+        "platform": "Coursera",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.lESxBZ0RWzz-tOguXABBKAHaE7&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/learn/leading-standout-teams-course-7"
+      },
+      {
+        "title": "Time Management Skills",
+        "platform": "Skillshare",
+        "image": "https://www.allbusiness.com/asset/2018/07/Time-management-concept.jpg",
+        "url": "https://www.coursera.org/learn/work-smarter-not-harder"
+      },
+      {
+        "title": "Effective Communication",
+        "platform": "Udacity",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.VUEq_lzrQe48JCAvI3JLLAHaEO&pid=Api&P=0&h=180",
+        "url": "https://www.coursera.org/specializations/effective-business-communication"
+      }
+    ],
+    "Other Courses": [
+      {
+        "title": "Self-Defense for Women",
+        "platform": "Udemy",
+        "url": "https://www.coursera.org/learn/life-cycle-assessment",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.3qbvC5Pi-MUAQFZ6Vi1XeAHaEC&pid=Api&P=0&h=180"
+      },
+      {
+        "title": "Financial Independence",
+        "platform": "Coursera",
+        "url": "https://www.coursera.org/learn/life-cycle-assessment",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.XvvMxB9On2pM8FsSZiQutQHaEK&pid=Api&P=0&h=180"
+      },
+      {
+        "title": "Meditation & Mindfulness",
+        "platform": "Skillshare",
+        "url": "https://www.coursera.org/learn/life-cycle-assessment",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.Dd7u-jdalg1VVa5CQeT0wAHaFo&pid=Api&P=0&h=180"
+      },
+      {
+        "title": "Nutrition & Wellness",
+        "platform": "Khan Academy",
+        "url": "https://www.coursera.org/learn/life-cycle-assessment",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.BkrNM0sYnKLv8GyBw7S1MgHaEK&pid=Api&P=0&h=180"
+      }
+    ]
+  }
+  

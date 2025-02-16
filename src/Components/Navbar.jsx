@@ -93,6 +93,7 @@ export default function Navbar() {
                 color: "#FFC0CB",
               },
             }}
+            onClick={()=>navigate("/jobs")}
           >
             Opportunities
           </Button>
